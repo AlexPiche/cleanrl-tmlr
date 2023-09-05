@@ -1,5 +1,8 @@
 # Bridging the Gap Between Target Networks and Functional Regularization
 
+<img width="1212" alt="Screenshot 2023-09-05 at 6 55 07 PM" src="https://github.com/AlexPiche/fr-tmlr/assets/5367565/981a007d-0d27-483c-ab9f-7d1bb2c98f56">
+
+
 ## Convergence disks
 
 https://github.com/AlexPiche/cleanrl-tmlr/blob/master/Convergence_disks.ipynb
